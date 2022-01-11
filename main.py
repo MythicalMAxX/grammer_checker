@@ -1,3 +1,7 @@
+"""
+THIS A SIMPLE CODE AND HAS NO TELEGRAM INTERGRATION.
+CONTACT ME FOR COMPLETE SOURCE CODE.
+"""
 from gingerit.gingerit import GingerIt
 
 text = input("Enter the string:")   #Input make sure to enter wrong string
