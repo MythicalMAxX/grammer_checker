@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jan 10 04:12:27 2022
+
+@author: Vinamra Yadav
+"""
+
 """
 THIS A SIMPLE CODE AND HAS NO TELEGRAM INTERGRATION.
 CONTACT ME FOR COMPLETE SOURCE CODE.
